@@ -17,10 +17,15 @@ git add .
 ```
 
 - enviar todos los archivos modificados
-  o
 
 ```
 git add index.html README.md
 ```
 
--seleccionar los archivos
+- seleccionar los archivos
+
+## 3. Enviar archivos al Head, y agregar una descipción al envío de los archivos.
+
+```
+git commit -m "proyecto base"
+```
